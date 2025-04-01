@@ -1,0 +1,1 @@
+// Placeholder - Mongoose schema for session

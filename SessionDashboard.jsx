@@ -1,0 +1,1 @@
+// Placeholder - Dashboard with sessions list
